@@ -46,7 +46,7 @@ TAVILY_API_KEY=your_api_key_here
 ## 🧪 How to Run
 python essay_writer_using_langgraph.py
 
-##📎 Example Task
+## 📎 Example Task
 {"task": "What is the difference between LangChain and LangGraph?", "revision_number": 1, "max_revision": 2}
 
 ## 🙌 Acknowledgements
